@@ -1,8 +1,9 @@
-Cara Penggunaan:
+# Cara Penggunaan:
 
-a. Masukan angka 1 untuk Melanjutkan ke Calculator
-b. Masukan angka 2 untuk melanjutkan ke Rumus Bangun Datar
+> Masukan angka 1 untuk Melanjutkan ke Calculator
+> 
+> Masukan angka 2 untuk melanjutkan ke Rumus Bangun Datar
 
-Problem?
+***Problem?
 contact me
-discord : lukarinki#8652
+discord : lukarinki#8652***
