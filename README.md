@@ -9,3 +9,5 @@
 ***Problem?
 contact me
 discord : lukarinki#8652***
+
+it's Windows Only
