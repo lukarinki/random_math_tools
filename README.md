@@ -10,4 +10,4 @@
 contact me
 discord : lukarinki#8652***
 
-it's Windows Only
+Sorry, it's only work with Windows OS 🔥🔥
