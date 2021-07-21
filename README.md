@@ -1,5 +1,7 @@
 # Cara Penggunaan:
 
+>Install Python 3.x
+>
 > Buka file rumus_bangun_datar.py
 > 
 > Masukan angka 1 untuk Melanjutkan ke Calculator
